@@ -1,0 +1,38 @@
+{
+  "name": "kagurazaka.id",
+  "short_name": "kagurazaka.id",
+  "start_url": "https://www.kagurazaka.id/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#b2ffff",
+  "description": "Tempatnya Berbagi Informasi Seputar Dunia Teknologi Informasi dan Tutorial Blogger - SEO, Responsive, jQuery, CSS, HTML, JavaScript, Widget, Web Tools' name='description",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-7dpxJHdVOzQ/XT20SSmiWgI/AAAAAAAAAAY/Ba0hqrKdMzAwAY9TQ60gI62EqSw14IYOgCLcBGAs/s1600/48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-BnITEQ7th84/XT20T4rP9II/AAAAAAAAAAs/RDnzdcDbyosKGi4RqTSgfnzXpMka-9mDQCLcBGAs/s1600/72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-g6iPivxXOXI/XT20T5eEoxI/AAAAAAAAAAo/hYCPTclpJfsPyufPCXsfwB4QYKtSJTPeQCLcBGAs/s1600/96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-ZmJ-jJt2dbM/XT20RvN5ZwI/AAAAAAAAAAQ/twKio78qZs4IHs465aW7bPrPd0nfSWangCLcBGAs/s1600/144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-H7W186Ey23M/XT20RZAQ1eI/AAAAAAAAAAM/lGRIhhZY0vo6J6MGmn8Oj7wdU5gtwVdqQCLcBGAs/s1600/168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-0cGgTuYh6Ls/XT20SUujgCI/AAAAAAAAAAc/FH_FUkKI3uw-4gTPcO_l0JuKu-g_P58ZwCLcBGAs/s1600/192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-P9sbb82gaQI/XT20Trg9UNI/AAAAAAAAAAk/7-ecqfVW9m0nRD6a7EhTtSj8YtVIYtFyQCLcBGAs/s1600/512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
